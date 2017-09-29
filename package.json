@@ -1,0 +1,9 @@
+{
+  "name": "m",
+  "version": "0.0.1",
+  "description": "The world's most micro web framework for node.js",
+  "main": "main.js",
+  "repository": "https://github.com/Yuhsak/m.git",
+  "author": "Yuhsak Inoue <yuhsak.inoue@gmail.com>",
+  "license": "MIT"
+}
